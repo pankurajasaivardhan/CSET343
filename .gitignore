@@ -1,0 +1,15 @@
+# Virtual environment
+aih/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Optional: exclude generated images if you don't want to push them
+synthetic_chest_xray.png
