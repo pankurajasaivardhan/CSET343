@@ -11,8 +11,9 @@ __pycache__/
 # OS files
 .DS_Store
 
-# Optional: exclude generated images if you don't want to push them
-synthetic_chest_xray.png
-heart_failure_clinical_records_dataset.csv
+# Datasets
 *.csv
+mitdb_data/
+
+# Generated images
 *.png
