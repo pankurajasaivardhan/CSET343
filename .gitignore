@@ -14,3 +14,5 @@ __pycache__/
 # Optional: exclude generated images if you don't want to push them
 synthetic_chest_xray.png
 heart_failure_clinical_records_dataset.csv
+*.csv
+*.png
